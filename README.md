@@ -4,6 +4,8 @@
 
 Overview
 --------
+Just testing the code if it will work for othe locations 
+
 
 The `stormwindmodel` package was created to allow users to model wind speeds at grid points in the United States based on "best tracks" hurricane tracking data, using a model for wind speed developed by Willoughby and coauthors (2006). The package includes functions for interpolating hurricane tracks and for modeling and mapping wind speeds during the storm. It includes population mean center locations for all U.S. counties, which can be used to map winds by county; however, other grid point locations can also be input for modeling. Full details on how this model is fit are provided in the "Details" vignette of the `stormwindmodel` package.
 
